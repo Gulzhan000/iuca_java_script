@@ -4,7 +4,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 100vh;
+  margin: 100px;
   background-color: rgb(121, 114, 114);
 }
 
